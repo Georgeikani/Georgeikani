@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300;400;500;600&display=swap');
+body{
+    font-family: 'Akshar', sans-serif;
+
+}
+
+body{
+    padding: 10px;
+}
+
+
+header{
+    font-weight: bolder;
+    font-size: 15pt;
+    color: black;
+
+}
+
+label, input{
+    display: block;
+    margin: .5em 0;
+    height: 25px;
+}
+
+.gee--- input{
+    width: 90%;
+}
+
+nav input{
+ width: 5%;
+}
+
+nav p{
+    align-items: top;
+}
+
+
+.ff--, h1{
+    padding:10px
+
+}
+
+h1{
+
+}
+
+.tt-- button{
+    color: white;
+    width: 90%;
+    border-radius: 5px;
+    background-color: rgb(22, 22, 138);
+    border: 1px;
+    font-size: larger;
+    height: 40px;
+}
+
+.tt--{
+padding-top: 20px;
+position: relative;
+}
+
+.tt-- p{ 
+margin-right: 90px;
+}
+
+.infor- img{
+    width: 100%;
+    padding: .7em .3em;
+}
+
+.infor-{
+    background-color: blue;
+    padding: 5em;
+    width: 40%;
+}
+
+.infor-, strong, p{
+    text-align: center;
+}
+.infor- strong{
+    font-size: 20pt;
+}
+
+.cont{
+   display: flex;
+   gap: 10rem;
+
+}
+
+.sez--{
+    color: white;
+    font-size: larger;
+}
